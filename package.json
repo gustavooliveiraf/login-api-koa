@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/oliveiragustavo/login-api#readme",
   "dependencies": {
-    "@hapi/joi": "^15.1.0",
+    "@hapi/joi": "^15.1.1",
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.1.0",
     "form-data": "^2.5.0",
